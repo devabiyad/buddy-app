@@ -28,20 +28,20 @@ npm Version - 9.5.0
 
 Open Command Prompt then run the following commands one by one
 
-git clone git@github.com:devabiyad/buddy-app.git
-cd buddy-app/
-composer update
-npm install
-npm run dev
+- git clone git@github.com:devabiyad/buddy-app.git
+- cd buddy-app/
+- composer update
+- npm install
+- npm run dev
 
 Go to code Editor then Rename
-.env.example file to .env
+- .env.example file to .env
 then
-Change DATABASE configuration in .env file.
+- Change DATABASE configuration in .env file.
 
 Open Command prompt again and run these commands one by one:
 
-php artisan migrate
-php artisan db:seed
-php artisan key:generate
-php artisan serve
+- php artisan migrate
+- php artisan db:seed
+- php artisan key:generate
+- php artisan serve
