@@ -20,9 +20,9 @@
 
 ## Dependencies
 
-PHP Version - 8.0
-Node Version - v18.15.0
-npm Version - 9.5.0
+- PHP Version - 8.0
+- Node Version - v18.15.0
+- npm Version - 9.5.0
 
 ## Installation Steps
 
