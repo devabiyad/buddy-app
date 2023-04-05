@@ -45,3 +45,13 @@ Open Command prompt again and run these commands one by one:
 - php artisan db:seed
 - php artisan key:generate
 - php artisan serve
+
+## Login Credentials
+
+- For Admin
+- username : admin@example.com
+- password : admin12345
+
+- For User
+- username : user@example.com
+- password : user12345
