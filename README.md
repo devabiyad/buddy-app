@@ -36,6 +36,7 @@ Open Command Prompt then run the following commands one by one
 
 Go to code Editor then
 - rename .env.example file to .env
+- Create a database on phpmyadmin 
 - Change DATABASE configuration in .env file.
 
 Open Command prompt again and run these commands one by one:
