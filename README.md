@@ -53,8 +53,9 @@ Open Command prompt again and run these commands one by one:
 username : admin@example.com
 <br/>
 password : admin12345
-
+<br/>
 - For User
+<br/>
 username : user@example.com
 <br/>
 password : user12345
