@@ -49,11 +49,12 @@ Open Command prompt again and run these commands one by one:
 ## Login Credentials
 
 - For Admin
-&emsp; username : admin@example.com
+
+username : admin@example.com
 <br/>
-&emsp; password : admin12345
-<br/>
-<br/>
+password : admin12345
+
 - For User
-&emsp; username : user@example.com <br/>
-&emsp; password : user12345
+username : user@example.com
+<br/>
+password : user12345
