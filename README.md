@@ -28,7 +28,7 @@
 
 Open Command Prompt then run the following commands one by one
 
-- git clone git@github.com:devabiyad/buddy-app.git
+- git clone https://github.com/devabiyad/buddy-app.git
 - cd buddy-app/
 - composer update
 - npm install
